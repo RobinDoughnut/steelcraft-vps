@@ -1,0 +1,12 @@
+#User Agents
+
+User-agent: Googlebot
+Disallow: /nogooglebot/
+Disallow: /random.html/
+Disallow: /new.html/
+
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.steelcraftpeb.com/sitemap.xml
